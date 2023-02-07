@@ -5,11 +5,12 @@ Tenzies is a simple dice game commonly played by children. This was a quick Reac
 <img src="tenzies.gif" alt="Demo of Tenzies game">
 </p>
 
-**Link to project:** *Coming soon... like within minutes!*
+**Link to project:** [Check it out here!](m47o.github.io/tenzies)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, React + Vite
-.
+
+
 Created with HTML by way of JSX and React and styled with CSS.
 It makes use of the `react-confetti` package to help make it clear when a player has won (and it's just a fun little package to use 🙂)
 and `nanoid` to quickly create unique IDs for the die components. 
