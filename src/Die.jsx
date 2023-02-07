@@ -5,7 +5,7 @@ export default function Die(props) {
         backgroundColor: props.isHeld ? "#59E391" : "white"
     }
 
-    const dieDots = `src/assets/die${props.value}.png`
+    const dieDots = `./die${props.value}.png`
 
     return (
         <div 
