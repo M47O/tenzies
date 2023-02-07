@@ -2,7 +2,7 @@
 Tenzies is a simple dice game commonly played by children. This was a quick React app spun up with Vite.
 
 <p align="center">
-<img src="src/assets/demo.gif" alt="Demo of Tenzies game">
+<img src="tenzies.gif" alt="Demo of Tenzies game">
 </p>
 
 **Link to project:** *Coming soon... like within minutes!*
