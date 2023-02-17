@@ -5,7 +5,7 @@ Tenzies is a simple dice game commonly played by children. This was a quick Reac
 <img src="tenzies.gif" alt="Demo of Tenzies game">
 </p>
 
-**Link to project:** [Check it out here!](m47o.github.io/tenzies)
+**Link to project:** [Check it out here!](https://m47o.github.io/tenzies)
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript, React + Vite
